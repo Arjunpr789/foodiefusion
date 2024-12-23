@@ -1,2 +1,2 @@
-# foodiefusion
+# FoodieFusion
 webproject
